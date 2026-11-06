@@ -1,0 +1,7 @@
+{
+  "versionName": "0.0.0",
+  "versionCode": 0,
+  "force": false,
+  "body": "Bituin 尚未发布首个版本。本清单用于验证更新链路与验签配置；发布首版时需更新 versionName / versionCode / force / body / links。",
+  "links": []
+}
