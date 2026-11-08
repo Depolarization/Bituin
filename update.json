@@ -1,7 +1,7 @@
 {
-  "versionName": "0.3.0",
-  "versionCode": 3,
+  "versionName": "0.4.0",
+  "versionCode": 4,
   "force": false,
-  "body": "Bituin 0.3.0：全池 palette 落地（搜索/分页/降级）与 palette 入口修复；赛事趋势图（23 桶聚合 + Wilson 置信区间）。",
-  "links": [{ "platform": "android", "label": "安卓版下载", "url": "https://github.com/Depolarization/Bituin/releases/download/v0.3.0/Bituin-0.3.0-android.apk" }]
+  "body": "Bituin 0.4.0：Arco Design 视觉体系与 M3 设计令牌落地；登录/首页/战绩/排行/我的/关于全页改版；新增赛事趋势图（23 桶聚合 + Wilson 置信区间）。",
+  "links": [{ "platform": "android", "label": "安卓版下载", "url": "https://github.com/Depolarization/Bituin/releases/download/v0.4.0/Bituin-0.4.0-android.apk" }]
 }
