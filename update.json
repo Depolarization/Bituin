@@ -1,7 +1,7 @@
 {
-  "versionName": "0.1.0",
-  "versionCode": 1,
+  "versionName": "0.2.0",
+  "versionCode": 2,
   "force": false,
-  "body": "Bituin 首个公开版本。本次为首包发布，后续版本经应用内「检查更新」链路获取。",
-  "links": [{ "platform": "android", "label": "安卓版下载", "url": "https://github.com/Depolarization/Bituin/releases/download/v0.1.0/Bituin-0.1.0-android.apk" }]
+  "body": "Bituin 0.2.0：Arco Design 视觉体系与 M3 设计令牌落地；登录/首页/战绩/排行/我的/关于全页改版；新增赛事趋势图（23 桶聚合 + Wilson 置信区间）。",
+  "links": [{ "platform": "android", "label": "安卓版下载", "url": "https://github.com/Depolarization/Bituin/releases/download/v0.2.0/Bituin-0.2.0-android.apk" }]
 }
